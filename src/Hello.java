@@ -5,6 +5,7 @@ public class Hello {
 // Just for 
         System.out.println("This is my first github commit codes");
 
+        System.out.print("changed");
 
 
     }}
